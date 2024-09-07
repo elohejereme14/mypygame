@@ -1,3 +1,10 @@
+# Game Instructions
+# There will be incoming box from above that is the enemy
+# The player is in the lower part of the screen and should shoot the enemy to destroy them
+# 1 score per shoot down enemy
+# if the player have been hit by the box or the box hit the ground it will be game over
+# the highscore will be save on the textfile
+
 import pygame
 import sys
 import random
